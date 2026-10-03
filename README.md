@@ -6,7 +6,7 @@
 
 Engenheiro de software com mais de 5 anos construindo e liderando sistemas de grande porte em .NET, Angular e Python, da modernização de plataformas legadas a soluções de inteligência artificial em produção.
 
-### 🧭 O que eu faço
+### 🧭 Últimos trabalhos
 
 - **IA aplicada em produção** — construo soluções de IA que rodam de verdade: modelos da NVIDIA em GPUs, desenvolvidos em colaboração com engenheiros da própria NVIDIA, e LLMs integrados a produtos com governança de custo e qualidade.
 - **Sistemas para o mercado financeiro** — desenvolvo soluções de risco, compliance e crédito para instituições financeiras, com integrações a APIs bancárias, conciliação e processamento de dados em alta volumetria.
