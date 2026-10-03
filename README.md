@@ -1,16 +1,24 @@
-## Hi there 👋
+# Fernando Lucas Amaral
 
-<!--
-**FerLucas11/FerLucas11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech Lead & Full Stack Developer** · .NET · Angular · Python · IA Aplicada · Azure
 
-Here are some ideas to get you started:
+📍 Brasília, Brasil · [LinkedIn](https://www.linkedin.com/in/fernandolucasamaral/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lidero o desenvolvimento de uma plataforma SaaS de risco ESG e compliance para instituições financeiras, incluindo um sistema de risco climático para crédito rural que opera modelos de IA da NVIDIA em GPUs e integra LLMs em produção com governança de custo.
+
+### 🔧 Stack
+
+- **Back-end:** C# · .NET 6–9 · ASP.NET Core · EF Core · Dapper · Hangfire
+- **Front-end:** Angular (Signals, standalone) · TypeScript · React
+- **IA & Dados:** Python · PyTorch · CUDA · Azure OpenAI · pandas · xarray
+- **Bancos:** SQL Server · PostgreSQL · MongoDB · Redis · Elasticsearch
+- **Infra:** Azure · Docker · GitHub Actions · Azure DevOps · OpenTelemetry
+
+### 🚀 Construindo agora
+
+- RAG sobre normativos do crédito rural (LangChain, LangGraph, pgvector)
+- Referência de microsserviços em .NET 9 (CQRS, outbox, mensageria, testes de integração)
+
+### 📌 Princípios
+
+Clean Architecture · DDD · testes automatizados · observabilidade · desenvolvimento assistido por agentes de IA
